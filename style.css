@@ -95,3 +95,11 @@ body {
 .content p {
     text-align: center;
 }
+
+.student {
+    background-image: url('./linh.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
