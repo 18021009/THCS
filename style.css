@@ -1,5 +1,5 @@
 body {
-    padding: 5px;
+    padding: 10px;
 }
 
 .header {
@@ -86,7 +86,6 @@ body {
     text-align: justify;
     border: 2px solid black;
     padding: 0 8px;
-    text-indent: 30px;
 }
 
 .main .content .content {
